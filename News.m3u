@@ -11,7 +11,7 @@ https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 #EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="资讯",ViuTV
 https://t.freetv.fun/live/viutv-sg.m3u8
-#EXTINF:-1 tvg-id="rthk31" tvg-name="rthk31" tvg-logo="https://epg.112114.xyz/logo/港台31.png" group-title="资讯",港台電視31
+#EXTINF:-1 tvg-id="rthk31" tvg-name="rthk31" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/rthk31.png" group-title="资讯",港台電視31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/darlin8855/turbo/main/logo/ZTXW.png" group-title="资讯",中天新聞
 https://www.youtube.com/watch?v=vr3XyVCR4T0
